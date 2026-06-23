@@ -6,3 +6,4 @@ Up to now, the site pointed to the readme file.  Now  we want it to point to the
 
 this is the best page ever
 
+Here are my contacts: [Contacts](contacts.md)
