@@ -19,3 +19,7 @@ Here's another line
 2. I've inserted another one
 3. second enumerated item
 4. 
+
+<erika@mun.ca>
+
+<http://merschrod.group>
