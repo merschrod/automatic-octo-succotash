@@ -9,3 +9,5 @@ blah blah
 
 Here's a line with two spaces at the end  
 Here's another line
+
+***bold and italic***
