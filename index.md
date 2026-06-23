@@ -9,3 +9,5 @@ this is the best page ever
 Here are my contacts: [Contacts](contacts.md)
 
 HEre is the contacts link without the md suffix: [contacts](contacts)
+
+why isn't it updating?
