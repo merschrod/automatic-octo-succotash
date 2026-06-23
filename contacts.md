@@ -1,8 +1,8 @@
 
 Here is my contacts page
 
-using a variable: {{ email }}
+using a variable: {{ site.email }}
 
-using a different variable {{ email2 }}
+using a different variable {{ site.email2 }}
 
 <erika@mun.ca>
