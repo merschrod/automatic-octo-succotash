@@ -1,6 +1,3 @@
----
-maintainer: "erika2"
----
 
 {% include navigation.md %}
 
