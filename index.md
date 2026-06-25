@@ -18,4 +18,4 @@ HEre is the contacts link without the md suffix: [contacts](contacts)
 
 why isn't it updating?
 
-Maintained by {{ page.maintainer }}
+{% include footer.md %}
