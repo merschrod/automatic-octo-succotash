@@ -1,3 +1,3 @@
-{% include banner.md %}
+<!-- {% include banner.md %} ->
 
 Maintained by {{ page.maintainer }}
