@@ -2,6 +2,8 @@
 maintainer: erika2
 ---
 
+{% include navigation.md %}
+
 # This is my index page
 
 Up to now, the site pointed to the readme file.  Now  we want it to point to the index file.
