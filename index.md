@@ -1,5 +1,5 @@
 ---
-maintainer: erika2
+maintainer: "erika2"
 ---
 
 {% include navigation.md %}
