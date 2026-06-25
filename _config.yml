@@ -14,3 +14,11 @@ students:
     project: "TERS and microplastics"
     degree: "PhD"
     program: "Env Sci"
+
+collections:
+  papers: 
+    output: false
+  people:
+    output: false
+  projects:
+    output: false
