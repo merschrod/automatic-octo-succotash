@@ -2,7 +2,8 @@
 maintainer: erika1
 ---
 
-{% include banner.md %}
+<!-- {% include banner.md %} ->
+
 {% include navigation.md %}
 
 # This is my index page
